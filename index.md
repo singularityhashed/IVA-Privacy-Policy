@@ -255,7 +255,7 @@ to be informed of how we are protecting your information.
 **12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**     
 
 If you have questions or comments about this notice, you may email us
-at asmaa.mosa970\@gmail.com or by post to:
+at asmaa.mosa970@gmail.com or by post to:
 
 Intelligent Vision Assistant
 

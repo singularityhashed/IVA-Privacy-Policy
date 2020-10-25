@@ -121,13 +121,9 @@ legal basis:
 ***In Short:** We may transfer, store, and process your information in
 countries other than your own.*
 
-Our servers are located in. If you are accessing our App from outside,
-please be aware that your information may be transferred to, stored, and
+Please be aware that your information may be transferred to, stored, and
 processed by us in our facilities and by those third parties with whom
-we may share your personal information (see \"[[WILL YOUR INFORMATION BE
-SHARED WITH
-ANYONE?]{.ul}](https://app.termly.io/dashboard/website/624936/privacy-policy#infoshare)\"
-above), in and other countries.
+we may share your personal information in and other countries.
 
 If you are a resident in the European Economic Area, then these
 countries may not necessarily have data protection laws or other similar
